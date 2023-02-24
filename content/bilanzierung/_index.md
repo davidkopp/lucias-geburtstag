@@ -1,6 +1,6 @@
 +++
-title = "CO2e-Bilanzierung"
+title = "CO₂e-Bilanzierung"
 weight = 1
 +++
 
-CO2e-Bilanzierung...
+CO₂e-Bilanzierung...
