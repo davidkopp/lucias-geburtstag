@@ -1,22 +1,25 @@
 # The URL the site will be built for
 base_url = "http://lucias-geburtstag.davidkopp.de/"
 
+theme = "toucan"
+
 # Whether to automatically compile all Sass files in the sass directory
-compile_sass = false
+compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
-
-theme = "toucan"
 
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = false
+render_emoji = true
+external_links_no_referrer = true
 
 [extra]
 
 title = "Lucia's Geburtstag"
 title_pic = "/favicon.ico"
 description = "CO2e-Bilanzierung der Geburtstagsfeier von Lucia"
-license = """Inhalt steht unter der <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a> Lizenz"""
+license = """Inhalt steht unter der <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA</a> Lizenz"""
+
