@@ -1,6 +1,8 @@
 +++
 title = "Über uns"
-weight = 2
+weight = 3
 +++
 
-Diese Seite wurde erstellt von Anna, David und weiteren Freund:innen von Lucia.
+# Über uns
+
+Mit viel ♥ von Anna, David, Jan und Judith.
