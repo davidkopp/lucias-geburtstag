@@ -16,4 +16,8 @@ Für die Erfassung all dieser Daten sind wir auf die Mithilfe der Gäste und auc
 -   Würden die Gäste selbst auch die Entscheidung treffen, eine Geburtstagsfeier trotz der hohen Emissionen zu veranstalten?
 -   Welchen Stellenwert messen Lucia's Freund\*innen dem Ansatz zu, Emissionen durch Kompensationszahlungen auszugleichen?
 
-Weiteres folgt zu gegebener Zeit.
+Zur Kompensation haben wir uns für ein Projekt in Deutschland entschieden: Renaturierung des Königsmoor in Schleswig-Holstein (siehe [https://moorfutures-schleswig-holstein.de](https://moorfutures-schleswig-holstein.de)).
+
+---
+
+In Kürze werden wir hier die Ergebnisse der Bilanzierung und die Auswertung der empirischen Umfrage anonymisiert veröffentlichen.

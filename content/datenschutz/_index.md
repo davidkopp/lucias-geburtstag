@@ -2,7 +2,7 @@
 title = "Datenschutz"
 template = "section.html"
 slug = "datenschutz"
-weight = 2
+weight = 4
 +++
 
 # Datenschutz

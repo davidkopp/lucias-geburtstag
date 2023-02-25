@@ -1,8 +1,8 @@
 +++
 title = "Über uns"
-weight = 3
+weight = 5
 +++
 
 # Über uns
 
-Mit viel ♥ von Anna, David, Jan und Judith.
+Mit viel ♥ von Anna, David, Jan, Judith, Katha, Mischa, Oliver.
