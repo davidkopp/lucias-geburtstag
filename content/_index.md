@@ -1,5 +1,5 @@
 +++
-title = "Lucia's Geburtstag"
+title = "Lucia's Geburtstagssause"
 template = "section.html"
 +++
 
