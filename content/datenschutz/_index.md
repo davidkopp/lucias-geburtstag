@@ -17,6 +17,6 @@ Die dabei erfassten Informationen sind:
 -   Hostname des zugreifenden Rechners
 -   Uhrzeit der Serveranfrage
 
-Da es sich bei dem Hostnamen des zugreifenden Rechners (=IP-Adresse) um eine potenziell personenbezogene Information handelt, sei dazu gesagt, dass nur die ersten zwei Blöcke der IPv4- bzw. IPv6-Adresse gespeichert werden, nicht aber die letzten Blöcke. Diese werden auf Server-Ebene genullt.
+Da es sich bei dem Hostnamen des zugreifenden Rechners (=IP-Adresse) um eine potenziell personenbezogene Information handelt, sei dazu gesagt, dass nur die ersten zwei Blöcke der IPv4- bzw. IPv6-Adresse gespeichert werden. Die anderen Blöcke werden auf Server-Ebene genullt.
 
-🍪 Cookies gibt's hier auf der Website keine. Diese gibt es nur bei Lucia's Geburtstagsfeier.
+🍪 Cookies gibt's hier auf der Website keine. Diese gab es nur bei Lucia's Geburtstagsfeier. Wenn du die Feier verpasst hast, tut uns das Leid für dich.

@@ -3,8 +3,8 @@ title = "Positive-Impact Commitment"
 weight = 2
 +++
 
-Wir wollen, dass diese Party nicht nur klimaneutral ist, sondern klimapositiv wird. Wie ist das möglich? Wenn durch diese Feier die Gäste dazu angeregt werden, in ihrem persönlichen Leben positive Veränderungen umzusetzen, können zukünftige Emissionen eingespart werden.
-Wir möchten deshalb die Gäste dazu anregen, persönlich etwas beizutragen, damit zukünftig weniger Treibhausgase emittiert werden.
+Wir wollen, dass die Party nicht nur klimaneutral ist, sondern klimapositiv wird. Wie ist das möglich? Wenn durch die Feier die Gäste dazu angeregt werden, in ihrem persönlichen Leben positive Veränderungen umzusetzen, können zukünftige Emissionen eingespart werden.
+Wir wollen deshalb die Gäste dazu anregen, persönlich etwas beizutragen, damit zukünftig weniger Treibhausgase emittiert werden.
 
 **Beispiele zur Inspiration**:
 

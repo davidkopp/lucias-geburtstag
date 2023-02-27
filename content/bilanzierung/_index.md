@@ -9,7 +9,7 @@ Die Bilanzierung der Geburtstagsfeier soll, wie nach dem [GHG Protocol](https://
 -   **Scope 2**: Indirekt entstandene Emissionen durch den Verbrauch von Strom, Wärme, etc.
 -   **Scope 3**: Entstandene Emissionen durch die An- und Abreise der Gäste, die Verpflegung der Gäste (Essen und Trinken), die Herstellung (und Entsorgung) der Sachgeschenke, die Herstellung der extra eingekauften Festtagskleidung, die Herstellung und die Entsorgung von Verbrauchsmaterialien wie z.B. Kondome, etc.
 
-Für die Erfassung all dieser Daten sind wir auf die Mithilfe der Gäste und auch der Gastgeberin angewiesen. Es werden deshalb während der Veranstaltung kurze, vertrauliche Interviews mit den Gästen geführt. Neben der Einholung der für die Bilanzierung notwendigen Daten, dienen die Interviews auch der empirischen Erfassung höchstinteressanter Informationen:
+Für die Erfassung all dieser Daten sind wir auf die Mithilfe der Gäste und auch der Gastgeberin angewiesen. Es wurden deshalb während der Veranstaltung kurze, vertrauliche Interviews mit den Gästen geführt. Neben der Einholung der für die Bilanzierung notwendigen Daten, dienen die Interviews auch der empirischen Erfassung höchstinteressanter Informationen:
 
 -   Wie sensibilisiert sind die Freund\*innen von Lucia zur Problematik der Klimakrise?
 -   Wie schwer viel die Entscheidung, die Geburtstags-Einladung trotz der Klimakrise anzunehmen?
@@ -21,3 +21,5 @@ Zur Kompensation haben wir uns für ein Projekt in Deutschland entschieden: Rena
 ---
 
 In Kürze werden wir hier die Ergebnisse der Bilanzierung und die Auswertung der empirischen Umfrage anonymisiert veröffentlichen.
+
+_Letztes Update: 27.02.2023_
