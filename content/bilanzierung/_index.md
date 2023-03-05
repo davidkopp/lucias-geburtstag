@@ -1,7 +1,9 @@
 +++
-title = "CO₂e-Bilanzierung"
+title = "Bilanzierung"
 weight = 1
 +++
+
+## 🔎 Methodik
 
 Die Bilanzierung der Geburtstagsfeier soll, wie nach dem [GHG Protocol](https://ghgprotocol.org/) definiert, soweit möglich alle direkten und indirekten Treibhausgasemissionen der Scopes 1, 2 und 3 umfassen:
 
@@ -9,17 +11,34 @@ Die Bilanzierung der Geburtstagsfeier soll, wie nach dem [GHG Protocol](https://
 -   **Scope 2**: Indirekt entstandene Emissionen durch den Verbrauch von Strom, Wärme, etc.
 -   **Scope 3**: Entstandene Emissionen durch die An- und Abreise der Gäste, die Verpflegung der Gäste (Essen und Trinken), die Herstellung (und Entsorgung) der Sachgeschenke, die Herstellung der extra eingekauften Festtagskleidung, die Herstellung und die Entsorgung von Verbrauchsmaterialien wie z.B. Kondome, etc.
 
-Für die Erfassung all dieser Daten sind wir auf die Mithilfe der Gäste und auch der Gastgeberin angewiesen. Es wurden deshalb während der Veranstaltung kurze, vertrauliche Interviews mit den Gästen geführt. Neben der Einholung der für die Bilanzierung notwendigen Daten, dienen die Interviews auch der empirischen Erfassung höchstinteressanter Informationen:
+Für die Erfassung all dieser Daten sind wir auf die Mithilfe der Gäste und auch der Gastgeberin angewiesen. Es wurden deshalb während der Veranstaltung kurze, vertrauliche Interviews mit den Gästen geführt. Neben der Einholung der für die Bilanzierung notwendigen Daten, haben wir die Chance außerdem genutzt, eine kleine empirischen Erfassung durchzuführen: [Sensibilisierung](sensisbilisierung)
 
--   Wie sensibilisiert sind die Freund\*innen von Lucia zur Problematik der Klimakrise?
--   Wie schwer viel die Entscheidung, die Geburtstags-Einladung trotz der Klimakrise anzunehmen?
--   Würden die Gäste selbst auch die Entscheidung treffen, eine Geburtstagsfeier trotz der hohen Emissionen zu veranstalten?
--   Welchen Stellenwert messen Lucia's Freund\*innen dem Ansatz zu, Emissionen durch Kompensationszahlungen auszugleichen?
+## 🧾 Ergebnis der Bilanzierung
 
-Zur Kompensation haben wir uns für ein Projekt in Deutschland entschieden: Renaturierung des Königsmoor in Schleswig-Holstein (siehe [https://moorfutures-schleswig-holstein.de](https://moorfutures-schleswig-holstein.de)).
+In die Bilanzierung wurden folgende Bereiche einbezogen:
 
----
+-   Energieverbräuche von Geräten, die speziell für die Feier betrieben wurden
+-   Essen und Trinken der Gäste
+-   Mobilität der Gäste (An- und Abreise sowie ggf. Übernachtung in Hotels)
+-   Geschenke
+-   Verbrauchsmaterialien
 
-In Kürze werden wir hier die Ergebnisse der Bilanzierung und die Auswertung der empirischen Umfrage anonymisiert veröffentlichen.
+Es mussten einige Annahmen getroffen und Abschätzungen vorgenommen werden, da nicht für alles akkurate Daten vorhanden waren. Wir sind jedoch trotzdem zuversichtlich, dass das Ergebnis gut die Realität widerspiegelt.
 
-_Letztes Update: 27.02.2023_
+Die Gesamtemissionen belaufen sich auf knapp **570 kg CO₂e**.
+
+Prozentual verteilen sich die Emissionen wie folgt auf die einzelnen Bereiche:
+
+-   Energie: 0,2 %
+-   Essen: 10 %
+-   Trinken: 6 %
+-   Mobilität: 58 %
+-   Hotel-Übernachtungen: 14 %
+-   Geschenke: 12 %
+-   Verbrauchsmaterialien: 0 %
+
+## 💫 Kompensation
+
+Zur Kompensation haben wir uns für ein Projekt in Deutschland entschieden: [Renaturierung des Königsmoor in Schleswig-Holstein](https://moorfutures-schleswig-holstein.de). Wir haben ein Zertifikat zur Kompensation von einer Tonne CO₂ gekauft. Somit können alle entstandenen Emissionen bilanziell ausgeglichen werden.
+
+[📃 Zertifikat (PDF)](zertifikat.pdf)
