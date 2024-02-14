@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://luciahoerner.de"
+base_url = "https://30.luciahoerner.de"
 
 theme = "toucan"
 

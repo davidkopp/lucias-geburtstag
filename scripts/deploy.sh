@@ -5,4 +5,4 @@ echo "Building Zola site"
 zola build
 
 echo "Sending to remote"
-rsync -ru public/. david@luciahoerner.de:/var/www/lucias-geburtstag --delete
+rsync -ru public/. ssh300006074@ngcobalt339.manitu.net:/home/sites/site100035799/web/30-geburtstag/ --delete
