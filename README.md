@@ -23,3 +23,9 @@ zola serve
 ```sh
 ./scripts/deploy.sh
 ```
+
+## Update Theme
+
+```sh
+git submodule update --recursive --remote
+```
