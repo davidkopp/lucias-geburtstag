@@ -7,16 +7,6 @@ weight = 4
 
 # Datenschutz
 
-Diese Webseite speichert Informationen im Rahmen der Server-Logfiles, die bei jeder Anfrage nach einer Datei an den Server gespeichert werden. So wie das Internet eben funktioniert.
+🍪 Cookies gibt's hier auf der Website keine. Diese gab es nur bei Lucia's Geburtstagsfeier.
 
-Die dabei erfassten Informationen sind:
-
--   Browsertyp und Browserversion
--   verwendetes Betriebssystem
--   Referrer URL
--   Hostname des zugreifenden Rechners
--   Uhrzeit der Serveranfrage
-
-Da es sich bei dem Hostnamen des zugreifenden Rechners (=IP-Adresse) um eine potenziell personenbezogene Information handelt, sei dazu gesagt, dass nur die ersten zwei Blöcke der IPv4- bzw. IPv6-Adresse gespeichert werden. Die anderen Blöcke werden auf Server-Ebene genullt.
-
-🍪 Cookies gibt's hier auf der Website keine. Diese gab es nur bei Lucia's Geburtstagsfeier. Wenn du die Feier verpasst hast, tut uns das Leid für dich.
+Diese Website wird gehostet von [manitu.de](https://www.manitu.de/). Die Erhebung von Zugriffsdaten erfolgt komplett anonym. Die IP-Adressen werden in den Log-Dateien durch 127.0.0.1 ersetzt.
