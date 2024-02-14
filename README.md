@@ -4,10 +4,14 @@ Diese Seite wurde mit dem Static Site Generator [Zola](https://www.getzola.org) 
 
 ## Installation
 
+Siehe Dokumentation [Installation](https://www.getzola.org/documentation/getting-started/installation/).
+
+Debian / Ubuntu:
+
 ```sh
-wget https://github.com/barnumbirr/zola-debian/releases/download/v0.16.1-1/zola_0.16.1-1_amd64_bullseye.deb
-sudo dpkg -i zola_0.16.1-1_amd64_bullseye.deb
-rm zola_0.16.1-1_amd64_bullseye.deb
+wget -O zola.deb https://github.com/barnumbirr/zola-debian/releases/download/v0.18.0-2/zola_0.18.0-2_amd64_bookworm.deb
+sudo dpkg -i zola.deb
+rm zola.deb
 ```
 
 ## Build
